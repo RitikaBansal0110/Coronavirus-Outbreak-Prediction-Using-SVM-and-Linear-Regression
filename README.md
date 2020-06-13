@@ -2,7 +2,7 @@
 Corona virus Outbreak Prediction Using Machine Learning Algorithms such as Support Vector Machine(SVM) and Linear Regression.
 
 Coronavirus (Covid-19) has become the most buzzed topic these days. Its outbreak has taken the world by storm. 
-In this we have analysed the outbreak of coronavirus from various reigons,visualized them using different charts and graphs and also predicted number of upcoming cases for next few days using Machine Learning Algorithms like Linear Regression and Support Vector Machine(SVM) model in python.
+In this we have analysed the outbreak of coronavirus from various regions, visualized them using different charts and graphs and also predicted number of upcoming cases for next few days using Machine Learning Algorithms like Linear Regression and Support Vector Machine(SVM) model in python.
 
 The dataset is taken from kaggle and are in the form of .csv files. There are three datasets confirmed, deaths, recovered.
 
